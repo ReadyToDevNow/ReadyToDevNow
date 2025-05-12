@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReadyToDevNow
-- 👀 I’m interested in vidéos games and web 
+- 👀 I’m interested in videos games web and coffee 
 - 🌱 I’m currently learning Vue.Js framework
 - 💞️ I’m looking to collaborate on your project haha 
 - ⚡ Fun fact: i was just a kid who watched matrix too many times  
